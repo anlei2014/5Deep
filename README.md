@@ -1,4 +1,5 @@
 # 5Deep
+# author: anlei
 SUPINFO-PROJECT -2021年03月24日
 
 # File description
@@ -7,7 +8,7 @@ SUPINFO-PROJECT -2021年03月24日
   ## useModelPre.ipynb --Use the model to predict
   ## 5deep-resnet.ipynb -- It is a model using resnet
 
-# author: anlei
+
 
 
 # Project requirements
